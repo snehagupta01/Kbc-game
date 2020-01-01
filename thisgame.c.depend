@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1557117509 source:c:\users\dell\desktop\thisgame.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<process.h>
+	<time.h>
+
